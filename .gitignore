@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/cleaned/*
+!data/cleaned/.gitkeep
+results/*.json
+results/*.png
+venv/
+*.egg-info/
+.DS_Store
